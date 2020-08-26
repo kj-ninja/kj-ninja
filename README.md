@@ -2,7 +2,8 @@
 
 ### Hi there 👋
 
-I'm front-end ninja with acrobatics and martial arts skills! I have a passion to learn a new things especially in terms of javascript.
+I'm front-end ninja with acrobatics and martial arts skills! 
+I have a passion to learn a new things especially in terms of JavaScript.
 Actually I'm open to work and looking for my first job as a front-end developer.
 
 ### Hey You! 👋
