@@ -1,8 +1,8 @@
-# Junior Front-end Developer
+# Front-end Developer
 
 ## Hi there 👋
 
-### I'm front-end ninja with acrobatics and martial arts skills! I have a passion to learn a new things especially in terms of JavaScript and React. Actually I'm open to work and looking for my first job as a front-end developer.
+### I'm front-end ninja with acrobatics and martial arts skills! I have a passion to learn a new things especially in terms of JavaScript and Vue / React.
 
 ## Hey You! 👋
 ### https://krzysztof-jakubiak.pl/ - here is my portfolio site
