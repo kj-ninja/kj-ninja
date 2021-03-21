@@ -5,9 +5,9 @@ I have a passion to learn a new things in terms of **JavaScript especially Vue.j
 I’m currently mastering **React / TypeScript**
 
 
-## Hey You check my portoflio site! 👋
+### Hey You check my portoflio site! 👋
 
-### https://krzysztof-jakubiak.pl
+https://krzysztof-jakubiak.pl
 
 
 <!--
