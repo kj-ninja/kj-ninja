@@ -1,11 +1,13 @@
 # Front-end Developer
 
-Yo! I'm full-time front-end ninja with acrobatics and martial arts skills! I have a passion to learn a new things in terms of **JavaScript especially Vue.js / React**. I’m currently mastering **Vue.js**
+Yo! I'm full-time front-end ninja with acrobatics and martial arts skills! 
+I have a passion to learn a new things in terms of **JavaScript especially Vue.js / React**. 
+I’m currently mastering **React / TypeScript**
+
 
 
 ## Hey You check my portoflio site! 👋
-
-### https://krzysztof-jakubiak.pl
+## https://krzysztof-jakubiak.pl
 
 
 <!--
