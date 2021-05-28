@@ -1,8 +1,8 @@
 # Front-end Developer
 
 Yo! I'm full-time front-end ninja with acrobatics and martial arts skills!   
-I have a passion to learn a new things in terms of **JavaScript especially Vue.js / React**.   
-I’m currently mastering **React / TypeScript** and martial arts for sure.
+I have a passion to learn a new things in terms of **JavaScript**.   
+I’m currently mastering **Node.js / React** and martial arts for sure.
 
 
 ### Hey You check my portoflio site! 👋
