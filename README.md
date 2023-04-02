@@ -1,6 +1,6 @@
-# Front-end Developer
+# Frontend Developer
 
-Yo! I'm full-time front-end ninja with acrobatics and martial arts skills!   
+Yo! I'm full-time frontend ninja with acrobatics and martial arts skills!   
 I have a passion to learn a new things in terms of **JavaScript**.   
 I’m currently mastering **Node.js / Next.js** and martial arts for sure.
 
