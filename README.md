@@ -1,9 +1,9 @@
 # Frontend Developer
 
-Yo! I'm full-time frontend ninja with acrobatics and martial arts skills!   
+Yo! I'm full-time Frontend ninja with acrobatics and martial arts skills!   
 I have a passion to learn a new things in terms of **JavaScript**.   
 I’m currently mastering **React / TypeScript / Node.js**.<br>
-I am also not afraid of dev-ops issues and in my spare time I learn about **Docker** and **AWS**
+I am also not afraid of DevOps issues and in my spare time I learn about **Docker** and **AWS**
 
 
 ### Yo, check my portoflio site!
