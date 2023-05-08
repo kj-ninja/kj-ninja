@@ -2,10 +2,11 @@
 
 Yo! I'm full-time frontend ninja with acrobatics and martial arts skills!   
 I have a passion to learn a new things in terms of **JavaScript**.   
-I’m currently mastering **Node.js / Next.js** and martial arts for sure.
+I’m currently mastering **React / TypeScript / Node.js**.
+I am also not afraid of dev-ops issues and in my spare time I learn about **Docker** and **AWS**
 
 
-### Hey You check my portoflio site! 👋
+### Yo, check my portoflio site!
 
 https://krzysztof-jakubiak.pl
 
