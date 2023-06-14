@@ -5,12 +5,6 @@ I have a passion to learn a new things in terms of **JavaScript**.
 I’m currently mastering **React / TypeScript / Node.js**.<br><br>
 I am also not afraid of DevOps issues and in my spare time I learn about **Docker** and **AWS**
 
-
-### Yo, check my portoflio site!
-
-https://krzysztof-jakubiak.pl
-
-
 <!--
 **kj-ninja/kj-ninja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
