@@ -8,7 +8,7 @@ I'm a dedicated Frontend Developer who brings a unique blend of technical expert
 
 * 🌍  I'm based in Wrocław
 * ✉️  You can contact me at [jakubiak.krzy@gmail.com](mailto:jakubiak.krzy@gmail.com)
-* 🧠  I'm currently learning Data Structures + Algorithms
+* 🧠  I'm currently learning about design patterns
 
 ### Skills
 
