@@ -1,4 +1,4 @@
-Yo 👋 I'm Chris and this is the place where I develop my skillz
+Yo 👋 I'm Chris and this is the place where I develop my skillz!
 ===================================
 
 Frontend Developer
