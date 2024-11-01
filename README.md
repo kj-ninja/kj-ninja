@@ -1,4 +1,4 @@
-Hi 👋 My name is Krzysztof Jakubiak
+Yo 👋 I'm Chris and this is my skillz playground
 ===================================
 
 Frontend Developer
